@@ -11,7 +11,6 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/ai-powered-travel-advisor.git
 cd ai-powered-travel-advisor
 Install the required Python packages:
 
