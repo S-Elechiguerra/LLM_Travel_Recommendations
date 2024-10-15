@@ -1,4 +1,4 @@
-#AI-Powered Travel Advisor
+##AI-Powered Travel Advisor
 Overview
 This repository contains a Python-based interactive travel advisor that leverages OpenAI's API and cosine similarity to recommend travel destinations based on user preferences. The application filters destinations by interests, budget, and travel type, and allows users to ask AI-powered questions about their recommended destinations.
 
